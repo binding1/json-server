@@ -1,6 +1,7 @@
 {
   "middlewares": [
     "./fixtures/middlewares/en",
-    "./fixtures/middlewares/jp"
+    "./fixtures/middlewares/jp",
+    "./fixtures/middlewares/header"
   ]
 }
